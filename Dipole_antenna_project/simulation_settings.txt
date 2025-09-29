@@ -1,0 +1,23 @@
+Simulation settings —  HFSS
+
+HFSS version: HFSS 2022 R1
+ Geometry
+- Frequency: 3.3Ghz
+- Lambda: 0.090909
+- Antenna type: Dipole (half-wave)
+- Dipole length: 43.5 mm
+- Dipole radius: 0.0625 mm
+- Gap: Radius -- 0.0625 mm
+           Height -- 0.125 mm
+- Feed type: lumped port 
+- Feed location: z axis
+
+Materials
+- Conductor: Pec
+
+ Boundaries
+- Radiation box ( AIrbox ) : XSize - 40mm, YSize - 50mm, ZSize - 85mm
+
+Outputs
+- S11 (exported to 'results_s11_data.csv')
+- Radiation pattern (3D, E-plane, H-plane)
