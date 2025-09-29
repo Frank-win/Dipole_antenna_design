@@ -52,8 +52,9 @@ Geometry and settings are provided so others can reproduce the design.
 
 📝 Notes
 
-The Results from the far firled radiation pattern and the gain value indicates it is omni-directional
+The Results from the far field radiation pattern and the gain value indicates it is omni-directional
 
 Results may vary depending on mesh settings and boundary conditions.
+
 
 Contributions and suggestions are welcome.
