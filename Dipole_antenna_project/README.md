@@ -1,5 +1,5 @@
 *DIPOLE ANTENNA*
-/(Frequency 3.3GHz)/
+*(Frequency 3.3GHz)*
 
 Project Overview
 
@@ -58,4 +58,5 @@ Results may vary depending on mesh settings and boundary conditions.
 
 
 Contributions and suggestions are welcome.
+
 
